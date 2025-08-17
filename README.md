@@ -1,30 +1,46 @@
-# Basavaraj nayak portfolio
+# Basavaraj Nayak – Portfolio  
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Welcome to my personal portfolio repository! 🚀  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/basavarajs-projects-43c046d5/v0-basavaraj-nayak-portfolio)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/DM2zmLOGEWj)
+This website showcases my projects, skills, and experience in computer science and software development.  
 
-## Overview
+🔗 **Live Portfolio:** [https://v0-basavaraj-nayak-portfolio.vercel.app/](https://v0-basavaraj-nayak-portfolio.vercel.app/)  
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+---
 
-## Deployment
+## 📝 About  
 
-Your project is live at:
+I am **Basavaraj Nayak**, a Computer Science student passionate about:  
+- Full-stack development (React, Node.js, SQL)  
+- Cloud & DevOps (AWS, Docker, Kubernetes)  
+- IoT and Edge ML solutions  
+- Problem-solving & Competitive Programming  
 
-**[https://vercel.com/basavarajs-projects-43c046d5/v0-basavaraj-nayak-portfolio](https://vercel.com/basavarajs-projects-43c046d5/v0-basavaraj-nayak-portfolio)**
+---
 
-## Build your app
+## 📂 Projects  
 
-Continue building your app on:
+### 🔹 Event Management & Ticketing System (DBMS Project)  
+- Built a full-stack event management platform with **React, SQL, and payment integration**.  
+- Implemented client-server architecture with multiple roles (tasker & customer).  
 
-**[https://v0.dev/chat/projects/DM2zmLOGEWj](https://v0.dev/chat/projects/DM2zmLOGEWj)**
+### 🔹 Edge ML Library for Cyberattack Detection (IoT Security Project)  
+- Designed a lightweight ML library for **real-time cyber threat detection** in IoT devices.  
+- Focused on optimizing ML models for **resource-constrained environments**.  
 
-## How It Works
+### 🔹 Smart Rescue Arm (Robotics Project)  
+- Developed a robotic arm for **disaster debris management** using **ROS2 and Gazebo**.  
+- Created a URDF-based movable robotic arm simulation for rescue operations.  
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 🔹 Crop Disease Detection with Raspberry Pi Pico W (IoT Project)  
+- Implemented IoT-based solution to detect crop diseases using **Edge ML & Cloud (GOLAIN)**.  
+- Integrated laptop camera with Raspberry Pi Pico W for real-time monitoring.  
+
+---
+
+## 🚀 Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MySQL / PostgreSQL  
+- **Deployment:** Vercel  
+- **Other Tools:** Docker, AWS, ROS2, Gazebo  
